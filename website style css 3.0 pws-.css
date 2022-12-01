@@ -1,0 +1,19 @@
+.container {
+  max-width: 840px;
+  margin: 0 auto;
+  } 
+
+p {
+  border: 2px solid powderblue;
+  margin: 50px;
+}
+
+#maintitle {
+    background-image: linear-gradient(90deg, red, blue);
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+  .wrapper {
+     background-color: green;
+  }
